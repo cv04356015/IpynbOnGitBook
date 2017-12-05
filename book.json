@@ -1,0 +1,24 @@
+{
+    "plugins" : [ "autocover","versions","katex" ],  
+    "pluginsConfig": {
+        "autocover": {
+              "title": "IpynbOnGitBook",
+              "author": "H.C. Lo",
+              "font": {
+                  "size": null,
+                  "family": "Impact",
+                  "color": "#000"
+              },
+              "size": {
+                  "w": 1800,
+                  "h": 2360
+              },
+              "background": {
+                  "color": "#FFF"
+              }
+        },
+        "versions": {
+            "type": "branches"
+        }
+    }
+}
